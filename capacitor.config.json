@@ -1,0 +1,10 @@
+{
+  "appId": "com.arena.gorohopvz",
+  "appName": "Горохо-Арена",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "minWebViewVersion": 60,
+    "backgroundColor": "#1b1f16"
+  }
+}
